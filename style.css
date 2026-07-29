@@ -6,5 +6,6 @@ body{
 }
 
 h1{
-    
+    border-style: double;
+    border-color: black;
 }
